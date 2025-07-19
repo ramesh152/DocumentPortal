@@ -1,1 +1,1 @@
-Document Analysis, Chat & Comparison Portal with Advanced RAG
+**** Document Analysis, Chat & Comparison Portal with Advanced RAG ****
