@@ -1,3 +1,13 @@
+notebook/huggingFaceRAGPipeline.ipynb
+faiss_index/
 docEnv
 docChatEnv
 .env
+env
+docuportal.egg-info
+docEnv/
+docChatEnv/
+__pycache__/
+logs/
+*.pyc
+test.py
