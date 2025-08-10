@@ -1,3 +1,5 @@
+data/multi_doc_chat/
+data/multi_document_chat/
 notebook/huggingFaceRAGPipeline.ipynb
 faiss_index/
 docEnv
